@@ -6,7 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Data Engineering
 - 🤔 I’m looking for help with science projects
 - 📫 How to reach me: joao.melo@viaconsulting.com.br
-- 😄 Pronouns: he/him
 
 <!-- <div>
   <a href="https://github.com/Squinelato">
