@@ -2,10 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Via Consulting
+- 🔭 I’m currently working as a Data Enginner at NuvemShop
 - 🌱 I’m currently learning Machine Learning and Data Engineering
-- 🤔 I’m looking for help with science projects
-- 📫 How to reach me: joao.melo@viaconsulting.com.br
+- 📫 How to reach me: joao.melo@nuvemshop.com.br
 
 <!-- <div>
   <a href="https://github.com/Squinelato">
